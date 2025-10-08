@@ -66,20 +66,16 @@ I’m passionate about building **AI-driven projects** that blend creativity, au
   <a href="https://linkedin.com/in/shaikabdulfarooq" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:shaikfarooqdev@gmail.com">
+  <a href="mailto:af453498@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/shaikabdulfarooq">
+  <a href="https://github.com/farooq-senpai">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ✨ Quote I Live By
-> “The best way to predict the future is to create it.” — Alan Kay  
-
----
 
 ### 🧩 Bonus
 <p align="center">
