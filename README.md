@@ -45,7 +45,7 @@ I’m passionate about building **AI-driven projects** that blend creativity, au
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikabdulfarooq&layout=compact&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farooq-senpai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ I’m passionate about building **AI-driven projects** that blend creativity, au
   <a href="https://linkedin.com/in/shaikabdulfarooq" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:af453498@gmail.com">
+  <a href="mailto:farooqshaik3906@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/farooq-senpai">
@@ -69,7 +69,7 @@ I’m passionate about building **AI-driven projects** that blend creativity, au
 
 ### 🧩 Bonus
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikabdulfarooq&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=farooq-senpai&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
