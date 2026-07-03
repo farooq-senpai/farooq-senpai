@@ -35,17 +35,7 @@ I’m passionate about building **AI-driven projects** that blend creativity, au
 
 ---
 
-## 📦 Featured Projects
 
-| 🎯 Project | 🧩 Description | 🔗 Link |
-|-------------|----------------|---------|
-| 🎭 **Live Face Swap AI** | Real-time face replacement using OpenCV and Deep Learning | [View Repo](#) |
-| 🗣️ **Virtual Voice Partner** | Multilingual AI assistant with realistic voice replies | [View Repo](#) |
-| 🧠 **Brain Tumor Detection (End-to-End)** | Flask-integrated DL model detecting tumors from MRI scans | [View Repo](https://github.com/farooq-senpai/Classification-of-Arrhythmia-ECG) |
-| ✋ **Gesture Detection System** | Uses camera input to trigger media/system control via hand gestures | [View Repo](#) |
-| ⚙️ **Automation Projects (Make.com & n8n)** | Smart lead generation & workflow automation systems | [View Repo](#) |
-
----
 
 ## 📊 GitHub Stats
 
