@@ -64,13 +64,6 @@ I’m passionate about building **AI-driven projects** that blend creativity, au
   </a>
 </p>
 
----
-
-
-### 🧩 Bonus
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farooq-senpai&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
