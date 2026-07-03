@@ -40,8 +40,8 @@ I’m passionate about building **AI-driven projects** that blend creativity, au
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaikabdulfarooq&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikabdulfarooq&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=farooq-senpai&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=farooq-senpai&theme=tokyonight" />
 </p>
 
 <p align="center">
